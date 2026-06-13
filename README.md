@@ -1,4 +1,4 @@
-# 🪐 CoreScript Labs | Backend & Automations
+# 🪐 Code craft | Backend & Automations
 
 Hey! I'm a Backend Developer specialized in building scalable APIs and autonomous automation pipelines. 
 With over 6 years on the platform, I focus on delivering clean, production-ready code.
