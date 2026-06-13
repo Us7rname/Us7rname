@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🪐 CoreScript Labs | Backend & Automations
 
-<!--
-**Us7rname/Us7rname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm a Backend Developer specialized in building scalable APIs and autonomous automation pipelines. 
+With over 6 years on the platform, I focus on delivering clean, production-ready code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tooling
+- **Languages:** Python, TypeScript, SQL
+- **Frameworks:** FastAPI, Node.js (Bun/pnpm), Flask (Legacy)
+- **Databases & Infra:** PostgreSQL, Redis, Docker, GitHub Actions
+- **Automation:** Web Scraping (Playwright), Task Queues (Celery), Cron Automations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+Currently building independent automation tooling and robust backend systems for freelance clients. 
+*All client production repositories are kept private for NDAs and security compliance.*
